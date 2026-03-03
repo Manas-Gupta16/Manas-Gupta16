@@ -36,8 +36,6 @@ Alongside that, I explore tools like Git and Docker to understand how real-world
 
 ## 🛠️ Technology Stack
 
-## 🛠️ Technology Stack
-
 <p align="left">
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
