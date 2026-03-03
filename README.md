@@ -16,8 +16,6 @@ Alongside that, I explore tools like Git and Docker to understand how real-world
 
 ## 🌐 Connect with Me
 
-## 🌐 Connect with Me
-
 <p align="left">
   <a href="https://github.com/Manas-Gupta16" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" />
