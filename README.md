@@ -16,39 +16,51 @@ Alongside that, I explore tools like Git and Docker to understand how real-world
 
 ## 🌐 Connect with Me
 
+## 🌐 Connect with Me
+
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/Manas-Gupta16" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/manas-gupta-26ab32337" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" />
   </a>
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="45" height="45" />
+  <a href="https://codeforces.com/profile/Manas-Gupta16" target="_blank">
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="45" height="45" />
   </a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="45" height="45" />
+  <a href="https://www.codechef.com/users/manas_gupta16" target="_blank">
+    <img src="https://cdn.simpleicons.org/codechef/5B4638" width="45" height="45" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="45" height="45" />
+  <a href="https://leetcode.com/Manas-Gupta16/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" height="45" />
   </a>
 </p>
-
----
 
 ## 🛠️ Technology Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />
+  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Manas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Manas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manas-Gupta16&show_icons=true&theme=tokyonight)
