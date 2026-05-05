@@ -36,77 +36,51 @@ I’m focused on combining competitive programming skill with real-world backend
 
 ### Programming Languages
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" alt="C" /><br/>C</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" /><br/>Python</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++" /><br/>C++</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" alt="Bash" /><br/>Bash</td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" alt="Bash" />
+</p>
 
 ### Web Development
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5" /><br/>HTML5</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3" /><br/>CSS3</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" /><br/>JavaScript</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" alt="Express" /><br/>Express</td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" alt="Express" />
+</p>
 
 ### Frameworks & Libraries
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React" /><br/>React</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js" /><br/>Node.js</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" alt="Spring" /><br/>Spring</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="45" alt="Gradle" /><br/>Gradle</td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="45" alt="Gradle" />
+</p>
 
 ### Databases
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB" /><br/>MongoDB</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL" /><br/>MySQL</td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL" />
+</p>
 
 ### Deployment & DevOps
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub" /><br/>GitHub</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker" /><br/>Docker</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" alt="GitHub Actions" /><br/>GitHub Actions</td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" alt="Kubernetes" /><br/>Kubernetes</td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" alt="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" alt="Kubernetes" />
+</p>
 
 ### AI & Cybersecurity
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>Machine Learning</strong></td>
-      <td align="center"><strong>Cybersecurity Fundamentals</strong></td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <strong>Machine Learning</strong>, <strong>Cybersecurity Fundamentals</strong>
+</p>
 
 ---
 
@@ -129,10 +103,10 @@ I’m focused on combining competitive programming skill with real-world backend
 
 ## 🌐 Connect with Me
 
-<div align="center">
-  <a href="https://github.com/Manas-Gupta16" target="_blank" rel="noreferrer" style="display:inline-block;margin:0 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/manas-gupta-26ab32337" target="_blank" rel="noreferrer" style="display:inline-block;margin:0 12px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn" /></a>
-  <a href="https://codeforces.com/profile/Manas-Gupta16" target="_blank" rel="noreferrer" style="display:inline-block;margin:0 12px;"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="45" height="45" alt="Codeforces" /></a>
-  <a href="https://www.codechef.com/users/manas_gupta16" target="_blank" rel="noreferrer" style="display:inline-block;margin:0 12px;"><img src="https://cdn.simpleicons.org/codechef/5B4638" width="45" height="45" alt="CodeChef" /></a>
-  <a href=https://leetcode.com/u/Manas-Gupta16/ target="_blank" rel="noreferrer" style="display:inline-block;margin:0 12px;"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" height="45" alt="LeetCode" /></a>
-</div>
+<p align="center">
+  <a href="https://github.com/Manas-Gupta16" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/manas-gupta-26ab32337" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/Manas-Gupta16" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="45" height="45" alt="Codeforces" /></a>&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/manas_gupta16" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/codechef/5B4638" width="45" height="45" alt="CodeChef" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/Manas-Gupta-16/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" height="45" alt="LeetCode" /></a>
+</p>
