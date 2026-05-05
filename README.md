@@ -28,14 +28,60 @@ I’m focused on combining competitive programming skill with real-world backend
 - Building a **Node.js backend** with authentication, APIs, and testing
 - Practicing **DSA daily** to sharpen problem-solving skills
 - Automating development pipelines with **Docker + GitHub Actions**
-- Learning **TypeScript** and cloud-friendly architecture patterns
+- Learning **JavaScript** and cloud-friendly architecture patterns
 
 ---
 
-## 🧰 Tools & Skills
+## 🧰 Tech Stack & Tools
+
+### Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,express,docker,git,github,linux,vscode" alt="Tech icons" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" alt="Bash" />
+</p>
+
+### Web Development
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" alt="Express" />
+</p>
+
+### Frameworks & Libraries
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="45" alt="Gradle" />
+</p>
+
+### Databases
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL" />
+</p>
+
+### Deployment & DevOps
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" alt="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" alt="Kubernetes" />
+</p>
+
+### AI & Cybersecurity
+
+<p align="center">
+  <strong>Machine Learning</strong>, <strong>Cybersecurity Fundamentals</strong>
 </p>
 
 ---
@@ -59,20 +105,20 @@ I’m focused on combining competitive programming skill with real-world backend
 
 ## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://github.com/Manas-Gupta16" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" />
+<p align="center">
+  <a href="https://github.com/Manas-Gupta16" target="_blank" rel="noreferrer" style="display:inline-block;margin:0 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/manas-gupta-26ab32337" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" />
+  <a href="https://linkedin.com/in/manas-gupta-26ab32337" target="_blank" rel="noreferrer" style="display:inline-block;margin:0 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn" />
   </a>
-  <a href="https://codeforces.com/profile/Manas-Gupta16" target="_blank">
-    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="45" height="45" />
+  <a href="https://codeforces.com/profile/Manas-Gupta16" target="_blank" rel="noreferrer" style="display:inline-block;margin:0 8px;">
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="45" height="45" alt="Codeforces" />
   </a>
-  <a href="https://www.codechef.com/users/manas_gupta16" target="_blank">
-    <img src="https://cdn.simpleicons.org/codechef/5B4638" width="45" height="45" />
+  <a href="https://www.codechef.com/users/manas_gupta16" target="_blank" rel="noreferrer" style="display:inline-block;margin:0 8px;">
+    <img src="https://cdn.simpleicons.org/codechef/5B4638" width="45" height="45" alt="CodeChef" />
   </a>
-  <a href="https://leetcode.com/Manas-Gupta-16/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" height="45" />
+  <a href="https://leetcode.com/Manas-Gupta-16/" target="_blank" rel="noreferrer" style="display:inline-block;margin:0 8px;">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" height="45" alt="LeetCode" />
   </a>
 </p>
