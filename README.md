@@ -1,14 +1,5 @@
 ﻿# Hi, I'm Manas Gupta 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;DSA+%7C+Competitive+Programming;Backend+%7C+Node.js+%7C+Problem+Solver" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Backend%20Developer-blue?style=for-the-badge" alt="Backend Developer" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-brightgreen?style=for-the-badge" alt="Open to Collaborate" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -37,10 +28,10 @@ I’m focused on combining competitive programming skill with real-world backend
 ### Programming Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" alt="Bash" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="45" alt="C" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="45" alt="Python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="45" alt="C++" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" width="45" alt="Bash" />
 </p>
 
 ### Web Development
@@ -104,9 +95,19 @@ I’m focused on combining competitive programming skill with real-world backend
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/Manas-Gupta16" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/manas-gupta-26ab32337" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/Manas-Gupta16" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="45" height="45" alt="Codeforces" /></a>&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/manas_gupta16" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/codechef/5B4638" width="45" height="45" alt="CodeChef" /></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/Manas-Gupta-16/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" height="45" alt="LeetCode" /></a>
+  <a href="https://github.com/Manas-Gupta16" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" style="margin: 0 10px;" />
+  </a>
+  <a href="https://linkedin.com/in/manas-gupta-26ab32337" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" style="margin: 0 10px;" />
+  </a>
+  <a href="https://codeforces.com/profile/Manas-Gupta16" target="_blank">
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="45" style="margin: 0 10px;" />
+  </a>
+  <a href="https://www.codechef.com/users/manas_gupta16" target="_blank">
+    <img src="https://cdn.simpleicons.org/codechef/5B4638" width="45" style="margin: 0 10px;" />
+  </a>
+  <a href="https://leetcode.com/u/Manas-Gupta16/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" style="margin: 0 10px;" />
+  </a>
 </p>
